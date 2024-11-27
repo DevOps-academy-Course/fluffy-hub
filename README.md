@@ -2,13 +2,13 @@
 This is a basic webisite hosted on Github using the `README.md` file.
 
 ## About me
--I am a trainee DevOps Engineer.
--I am from Nigeria.
--I am paasionate to be a Web developer 
+- I am a trainee DevOps Engineer.
+- I am from Nigeria.
+- I am paasionate to be a Web developer 
 
 ## Educational Background
 
--I am bachelor of science degree holder 
+- I am bachelor of science degree holder 
 
 
 ## Projects
