@@ -4,7 +4,7 @@ This is a basic webisite hosted on Github using the `README.md` file.
 ## About me
 - I am a trainee DevOps Engineer.
 - I am from Nigeria.
-- I am paasionate to be a Web developer 
+- I am passionate to be a Web developer 
 
 ## Educational Background
 
@@ -19,5 +19,5 @@ This is a basic webisite hosted on Github using the `README.md` file.
 
 - Email: regilbert002@gmail.com
 - Phone number: xxxxxx085
-  
+- Adress: Essex, London. 
 
